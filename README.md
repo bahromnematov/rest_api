@@ -1,16 +1,8 @@
 # rest_api
 
-A new Flutter project.
+Api:https://jsonplaceholder.typicode.com/posts
 
-## Getting Started
+Api:https://jsonplaceholder.typicode.com/photos
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/bahromnematov/rest_api/assets/89692061/1f5a2e08-63b6-4061-9024-a432dd306307)![image](https://github.com/bahromnematov/rest_api/assets/89692061/591c565e-65dc-4778-b533-25852a327e1f)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

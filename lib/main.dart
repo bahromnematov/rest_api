@@ -1,6 +1,9 @@
+import 'package:chat_gpt_api/chat_gpt.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:rest_api/pages/example_four.dart';
+import 'package:rest_api/pages/example_three.dart';
 import 'package:rest_api/pages/example_two.dart';
-import 'package:rest_api/pages/home_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: ExampleTwo()
+      home: ExampleFour()
     );
   }
 }
